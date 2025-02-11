@@ -1,0 +1,18 @@
+Abreviações de Moedas Comuns:
+BRL - Real Brasileiro
+USD - Dólar Americano
+EUR - Euro
+GBP - Libra Esterlina
+JPY - Iene Japonês
+AUD - Dólar Australiano
+CAD - Dólar Canadense
+CHF - Franco Suíço
+INR - Rupia Indiana
+CNY - Yuan Chinês
+MXN - Peso Mexicano
+ARS - Peso Argentino
+
+
+Exemplo:
+Se você deseja converter 100 BRL para USD, basta digitar 100 no campo "Valor", inserir "BRL" como moeda base e "USD" como moeda de destino, e clicar em "Converter". 
+O aplicativo calculará automaticamente a taxa de câmbio atual.

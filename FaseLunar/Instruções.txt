@@ -1,0 +1,3 @@
+Coloque a data no formato YYYY-MM-DD.
+
+Exemplo: 2024-01-01
