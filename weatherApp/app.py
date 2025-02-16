@@ -39,7 +39,7 @@ background_image = PhotoImage(file="weatherApp\\Img\\image.png")
 background_label = tk.Label(root, image=background_image)
 background_label.place(relwidth=1, relheight=1)
 
-tk.Label(root, text="Qual Cidade:", font=("Arial", 12, "bold"), bg="#87CEEB").pack(pady=10)
+tk.Label(root, text="Qual Cidade:", font=("Arial", 12, "bold"), bg="#ffcc00").pack(pady=10)
 city_entry = tk.Entry(root, font=("Arial", 12), width=20)
 city_entry.pack(pady=5)
 
